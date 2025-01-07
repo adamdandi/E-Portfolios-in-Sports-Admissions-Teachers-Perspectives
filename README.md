@@ -7,7 +7,7 @@ Quantitative Descriptive Analysis with a Delphi Method Validation
 Microsoft Excel, Statistical Analysis Software (SPSS)
 
 ### **Completion Date:**  
-October 2023
+July 2023
 
 ### **Company Industry:**  
 Education
